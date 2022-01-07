@@ -657,21 +657,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1294be845bf25241871c08bece9aab3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  seed: 154
+  seed: 255
   xSize: 36
   ySize: 20
-  zoom: 0.175
+  zoom: 4.5
   xOffset: 0
   yOffset: 0
   floorValue: 0.45
+  floorValueB: 0.5
   Tilemap: {fileID: 231068623}
   OverTilemap: {fileID: 291755659}
   blackTile: {fileID: 11400000, guid: c1f9236758e9d5a4b88cc0d422a10fd5, type: 2}
   whiteTile: {fileID: 11400000, guid: 32f5b83bcab98044aa75f368df6442a9, type: 2}
   GreenTile: {fileID: 11400000, guid: 48a25a3f830f35a49939238e8fabf869, type: 2}
   LianeTile: {fileID: 11400000, guid: 97524929311651e4b9a9ca980113a409, type: 2}
-  xSeed: 0
-  ySeed: 0
 --- !u!4 &1824744868
 Transform:
   m_ObjectHideFlags: 0

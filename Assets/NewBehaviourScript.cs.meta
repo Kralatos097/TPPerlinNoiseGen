@@ -5,8 +5,11 @@ MonoImporter:
   serializedVersion: 2
   defaultReferences:
   - Tilemap: {instanceID: 0}
+  - OverTilemap: {instanceID: 0}
   - blackTile: {fileID: 11400000, guid: c1f9236758e9d5a4b88cc0d422a10fd5, type: 2}
   - whiteTile: {fileID: 11400000, guid: 32f5b83bcab98044aa75f368df6442a9, type: 2}
+  - GreenTile: {fileID: 11400000, guid: 48a25a3f830f35a49939238e8fabf869, type: 2}
+  - LianeTile: {fileID: 11400000, guid: 97524929311651e4b9a9ca980113a409, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
